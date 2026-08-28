@@ -26,8 +26,8 @@ I'm a Technical Support & Customer Service professional with 6+ years of experie
 * **Multi-Industry Support Experience:** Hands-on work spanning telecom faults support, banking client services, healthcare records, and logistics customer support — giving me a versatile, adaptable skill set across industries.
 
 ### Connect with Me
-* **LinkedIn:** [www.linkedin.com/in/juliannedee87]
-* **Email:** [juliannedespi11@gmail.com]
+* **LinkedIn:** [(https://www.linkedin.com/in/juliannedee87)]
+* **Email:** [mailto:juliannedespi11@gmail.comcom]
 
 ---
 ⭐️ Open to remote Customer Support / Technical Support / Virtual Assistant opportunities.
