@@ -3,9 +3,10 @@ Portfolio
 # Hi, I'm Julianne Despi 👋
 
 ### About Me
-I'm a Technical Support & Customer Service professional with 6+ years of experience across telecom, banking, and healthcare. I currently work as a Technical Support Representative (Level 2, Faults) at Telstra International Philippines, and I'm building a career as a Virtual Assistant — helping businesses with customer support, order processing, and e-commerce operations. I'm passionate about solving problems for customers, learning new tools fast, and delivering support that feels personal, not scripted.
+I'm a Technical Support, Virtual Assistant, and Customer Service professional with 6+ years of experience across real estate, telecom, banking, and healthcare. I currently work as a Real Estate Virtual Assistant with Ray White and a Level 2 Faults Technical Support Representative at Telstra International Philippines. I specialize in property management administration, customer support, order processing, and workflow automation — delivering dependable support tailored to your team's needs.
 
 ### Background
+* **Real Estate & Property Management:** PropertyMe, Ailo, Guesty, Flick It Over, Ignite
 * 🛠️ **Technical Support Rep II (Faults)** — Telstra International Philippines (Nov 2024–Present)
 * 📱 **Remote Support Specialist Tier 2** — Concentrix, Apple/AT&T accounts (2024)
 * 🏦 **Client Services Associate, Banking Operations** — JPMorgan Chase & Co. (2022–2023)
