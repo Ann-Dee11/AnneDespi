@@ -6,8 +6,8 @@ Portfolio
 I'm a Technical Support, Virtual Assistant, and Customer Service professional with 6+ years of experience across real estate, telecom, banking, and healthcare. I currently work as a Real Estate Virtual Assistant with Ray White and a Level 2 Faults Technical Support Representative at Telstra International Philippines. I specialize in property management administration, customer support, order processing, and workflow automation — delivering dependable support tailored to your team's needs.
 
 ### Background
-* **Real Estate & Property Management:** PropertyMe, Ailo, Guesty, Flick It Over, Ignite
-* 🛠️ **Technical Support Rep II (Faults)** — Telstra International Philippines (Nov 2024–Present)
+* **Real Estate & Property Management:** RayWhite (August-November 2026)
+* 🛠️ **Technical Support Rep II (Faults)** — Telstra International Philippines (Nov 2024–Nov 2026)
 * 📱 **Remote Support Specialist Tier 2** — Concentrix, Apple/AT&T accounts (2024)
 * 🏦 **Client Services Associate, Banking Operations** — JPMorgan Chase & Co. (2022–2023)
 * 🩺 **Healthcare Support & Records Specialist** — Teleperformance, HIPAA-compliant (2023)
